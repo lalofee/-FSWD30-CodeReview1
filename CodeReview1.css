@@ -1,0 +1,66 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px; 
+}
+#container {
+	width: 860px;
+	margin: 0 auto;
+}
+header {   
+    width: 860px;
+    height: 70px;
+    background: #FA8258;
+    color: #FFFFFF;
+}
+nav {   
+    width: 860px;
+    height: 50px;
+    background: #848484;
+    color: #FFFFFF;
+}
+main {
+	width: 860px;
+	height: 700px;
+	margin: 10px 0;
+}
+footer {
+	width: 860px;
+	height: 50px;
+	background: #FA8258;
+    color: #FFFFFF;
+    text-align: center;
+}
+#logo {
+	float: left;
+}
+#author {	
+	padding: 20px 10px 0 10px;
+}
+ul {
+	list-style-type: none;
+	margin: 4px;
+}
+li {
+    float: left;
+    margin: 0;
+    padding: 0 25px 0 0;
+}
+#img1 {
+	float: left;
+}
+#img2 {
+	float: right;
+}
+#img3 {
+	float: left;
+}
+#img4 {
+	float: right;
+}
+.image {
+	width: 400px;
+	height: 350px;
+}
+#footer {
+	padding: 15px 0;
+}
